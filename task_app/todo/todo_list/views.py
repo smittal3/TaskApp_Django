@@ -40,7 +40,7 @@ def uncross(request, list_id):
 
 def edit(request, list_id):
   if request.method == 'POST':
-    item = List.object.get(pk=list_id)
+    item = List.objects.get(pk=list_id)
     form = ListForm(request.POST or None, instance = item)
 
     if form.is_valid():
