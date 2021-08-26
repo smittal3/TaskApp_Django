@@ -12,3 +12,4 @@ A simple task app created using python and django with create, update, read, and
 ![Gif: Deleting a Task](https://media.giphy.com/media/mb5KJ5RPOthUopbpOu/source.gif?cid=790b761180698d6b3714ded2fc296080a9b53672bf035dfa&rid=source.gif&ct=g)
 
 #### Changing status of a Task
+![Gif: Changing Status of a Task](https://media.giphy.com/media/roSMzmgKEjRXY7vcFT/source.gif?cid=790b7611df5e92e08ff1aef37be8d0776a622e60d3087b85&rid=source.gif&ct=g)
