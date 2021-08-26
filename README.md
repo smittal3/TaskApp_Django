@@ -3,4 +3,4 @@ A simple task app created using python and django with create, update, read, and
 
 ## Functionality
 # Adding a Task
-![Adding a Task](https://imgur.com/a/LOijn4A)
+![Gif: Adding a Task](https://media.giphy.com/media/6g1bDZBEAHmNRSLy4a/source.gif?cid=790b761155e9e248b16468d1ea90e2808b09268eef0c0fdb&rid=source.gif&ct=g)
